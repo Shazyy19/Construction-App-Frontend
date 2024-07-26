@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)]
+![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
 <h1 align="center">Hi 👋, I'm Syed Shahzaib Haider Rizvi</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://blog-cdn.lottiefiles.com/cdn-cgi/image/width=1200,quality=80,format=auto/2022/11/How-to-add-Lottie-Animations-in-iOS-apps--Swift-.png">
