@@ -17,15 +17,23 @@
 <h3 align="left">Screenshots:</h3>
 
 <div style="display: flex; align-items: center;">
-<img src="https://github.com/Shazyy19/foodie/blob/main/login.jpeg" alt="Logo" width="200 style="margin-right: 10px;"/>
-<img src="https://github.com/Shazyy19/foodie/blob/main/Dashboard.jpeg" alt="Logo" width="200 style="margin-right: 10px;"/>
-  <img src="https://github.com/Shazyy19/foodie/blob/main/Home.jpeg" alt="Logo" width="200 style="margin-right: 10px;"/>
-  <img src="https://github.com/Shazyy19/foodie/blob/main/Orders.jpeg" alt="Logo" width="200 style="margin-right: 10px;"/>
-  <img src="https://github.com/Shazyy19/foodie/blob/main/More.jpeg" alt="Logo" width="200 style="margin-right: 10px;"/>
-  <img src="https://github.com/Shazyy19/foodie/blob/main/Settings.jpeg" alt="Logo" width="200 style="margin-right: 10px;"/>
-  <img src="https://github.com/Shazyy19/foodie/blob/main/Chat.jpeg" alt="Logo" width="200 style="margin-right: 10px;"/>
-</div>
+<img src="https://github.com/Shazyy19/Construction-App-Frontend/blob/main/Admin%20Login.jpeg" alt="Logo" width="200 style="margin-right: 10px;"/>
+<img src="https://github.com/Shazyy19/Construction-App-Frontend/blob/main/Admin%20Home.jpeg" alt="Logo" width="200 style="margin-right: 10px;"/>
+  <img src="https://github.com/Shazyy19/Construction-App-Frontend/blob/main/Admin%20Add%20projects%20descriptions.jpeg" alt="Logo" width="200 style="margin-right: 10px;"/>
+  <img src="https://github.com/Shazyy19/Construction-App-Frontend/blob/main/Add%20new%20task.jpeg" alt="Logo" width="200 style="margin-right: 10px;"/>
+  <img src="https://github.com/Shazyy19/Construction-App-Frontend/blob/main/Admin%20Projects%20add%20images.jpeg" alt="Logo" width="200 style="margin-right: 10px;"/>
+  <img src="https://github.com/Shazyy19/Construction-App-Frontend/blob/main/Calender.jpeg" alt="Logo" width="200 style="margin-right: 10px;"/>
+  <img src="https://github.com/Shazyy19/Construction-App-Frontend/blob/main/Completed%20Tasks.jpeg" alt="Logo" width="200 style="margin-right: 10px;"/>
+  <img src="https://github.com/Shazyy19/Construction-App-Frontend/blob/main/Dashboard.jpeg" alt="Logo" width="200 style="margin-right: 10px;"/>
+  <img src="https://github.com/Shazyy19/Construction-App-Frontend/blob/main/Featured%20Projects.jpeg" alt="Logo" width="200 style="margin-right: 10px;"/>
+  <img src="https://github.com/Shazyy19/Construction-App-Frontend/blob/main/Featured%20projects%20with%20description.jpeg" alt="Logo" width="200 style="margin-right: 10px;"/>
+  <img src="https://github.com/Shazyy19/Construction-App-Frontend/blob/main/Home%20Task.jpeg" alt="Logo" width="200 style="margin-right: 10px;"/>
+  <img src="https://github.com/Shazyy19/Construction-App-Frontend/blob/main/Project%20Reports.jpeg" alt="Logo" width="200 style="margin-right: 10px;"/>
+   <img src="https://github.com/Shazyy19/Construction-App-Frontend/blob/main/Task%20Details.jpeg" alt="Logo" width="200 style="margin-right: 10px;"/>
+    <img src="https://github.com/Shazyy19/Construction-App-Frontend/blob/main/User%20Home.jpeg" alt="Logo" width="200 style="margin-right: 10px;"/>
+     <img src="https://github.com/Shazyy19/Construction-App-Frontend/blob/main/User%20Login.jpeg" alt="Logo" width="200 style="margin-right: 10px;"/>
 
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
